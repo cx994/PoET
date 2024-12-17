@@ -1,0 +1,12 @@
+{
+    "ckpt_path": "data/poet.ckpt",
+    "msa_sub1_path": "data/ERBB_family/EGFR.fas",
+    "msa_sub2_path": "data/ERBB_family/ERBB3.fas",
+    "variants_fasta_path": "data/ERBB_family/ERBB3_EGFR.fas",
+    "output_npy_path": "data/ERBB_family/sdp_score.npy",
+    "batch_size": 1,
+    "seed": 1202,
+    "max_similarity": 0.95,
+    "max_tokens": 14000
+}
+
